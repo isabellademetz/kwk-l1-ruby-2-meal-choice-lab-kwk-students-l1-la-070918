@@ -16,7 +16,7 @@ def dinner(food = "salmon")
   puts "Evening is the best time for #{food}."
 end
 
-def snacks(food = "Swedish fish")
+def snacks("Swedish fish")
  
 
 puts breakfast("scrambled eggs")
